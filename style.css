@@ -58,6 +58,7 @@ grid-template-rows:1fr 2fr 1fr;
   width: 5rem;
   transform: translateX(3.1rem);
   opacity: 0.1;
+  border: 0px;
 }
 @media (max-width:600px) {
  
